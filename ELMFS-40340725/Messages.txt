@@ -1,0 +1,8 @@
+E123456789*jalvarez@hotmail.co.uk This is the subject  This is an URL http://google.com
+S123569874*12345678980 this is an SMS so text abbreviation here: ASAP 
+T654365365*@Juan This is the subject this is a Hashtag #llfd and a Mention @trying #fedorr #Stark
+E234523452*test@hotmail.co.uk This is the subject This is another email to test some other URL http://napier.com
+E765732345*leo@hotmail.co.uk Changing the subject Another email here, we have several with the URL http://facebook.com that should be quarentine
+E111111111*noen@none.com SIR 12/12/12         Sport Centre Code: 77-777-77 Nature of Incident: Theft of Properties This email is done to test SIR emails, it should work, and with a URL too http://college.com It should work
+T654865965*@Juan This is the subject This is a Hashtag #ll and 2 Mentions: @test @new and another hashtag #new #Stark #Targaryen
+E222222222*someone@email.com SIR 18/11/19         Sport Centre Code: 12-123-12 Nature of Incident: Staff Attack This is another email done to test SIR emails, it should work, and with a URL too http://bbc.co.uk It should work

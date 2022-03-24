@@ -1,0 +1,83 @@
+
+Messages from: 29/11/2019 19:26:27
+{
+  "MessageType": "Standard Email",
+  "MessageID": "E123456789",
+  "Sender": "grantshaw@hotmail.co.uk",
+  "Subject": " this is the subject",
+  "MessageBody": " this is an email omg  <URL Quarantined> "
+}
+{
+  "MessageType": "SMS",
+  "PhoneNumber": "12345678980",
+  "MessageID": "S123569874",
+  "MessageBody": "  sajhdflsa ASAP <As soon as possible> ;lksajfda "
+}
+{
+  "MessageType": "Tweet",
+  "MessageID": "T654365365",
+  "Tweeter": "@Grant",
+  "MessageBody": "  this is the subject this is an email omg #ll @try #fed"
+}
+{
+  "MessageType": "Standard Email",
+  "MessageID": "E234523452",
+  "Sender": "grantshaw@hotmail.co.uk",
+  "Subject": " this is the subject",
+  "MessageBody": " this is an email omg  <URL Quarantined> "
+}
+{
+  "MessageType": "Standard Email",
+  "MessageID": "E765732345",
+  "Sender": "grantshaw@hotmail.co.uk",
+  "Subject": " this is the subject",
+  "MessageBody": " this is an email omg  <URL Quarantined> "
+}
+{
+  "MessageType": "SIR Email",
+  "MessageID": "E111111111",
+  "Sender": "noen@none.com",
+  "Subject": " SIR 12/12/12       ",
+  "MessageBody": "  Sport Centre Code: 77-777-77 Nature of Incident: Theft of Properties lkjsafd ;lksa ;lsakjfd a;lksjf;l sadf ;lkasjdf;lksaj f  <URL Quarantined>  alksjdfa"
+}
+Messages from: 29/11/2019 19:26:32
+{
+  "MessageType": "Standard Email",
+  "MessageID": "E123456789",
+  "Sender": "grantshaw@hotmail.co.uk",
+  "Subject": " this is the subject",
+  "MessageBody": " this is an email omg  <URL Quarantined> "
+}
+{
+  "MessageType": "SMS",
+  "PhoneNumber": "12345678980",
+  "MessageID": "S123569874",
+  "MessageBody": "  sajhdflsa ASAP <As soon as possible> ;lksajfda "
+}
+{
+  "MessageType": "Tweet",
+  "MessageID": "T654365365",
+  "Tweeter": "@Grant",
+  "MessageBody": "  this is the subject this is an email omg #ll @try #fed"
+}
+{
+  "MessageType": "Standard Email",
+  "MessageID": "E234523452",
+  "Sender": "grantshaw@hotmail.co.uk",
+  "Subject": " this is the subject",
+  "MessageBody": " this is an email omg  <URL Quarantined> "
+}
+{
+  "MessageType": "Standard Email",
+  "MessageID": "E765732345",
+  "Sender": "grantshaw@hotmail.co.uk",
+  "Subject": " this is the subject",
+  "MessageBody": " this is an email omg  <URL Quarantined> "
+}
+{
+  "MessageType": "SIR Email",
+  "MessageID": "E111111111",
+  "Sender": "noen@none.com",
+  "Subject": " SIR 12/12/12       ",
+  "MessageBody": "  Sport Centre Code: 77-777-77 Nature of Incident: Theft of Properties lkjsafd ;lksa ;lsakjfd a;lksjf;l sadf ;lkasjdf;lksaj f  <URL Quarantined>  alksjdfa"
+}

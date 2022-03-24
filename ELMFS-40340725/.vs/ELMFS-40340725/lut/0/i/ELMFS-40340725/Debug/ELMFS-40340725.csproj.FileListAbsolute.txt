@@ -1,0 +1,16 @@
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\b\ELMFS-40340725\bin\Debug\ELMFS-40340725.exe.config
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\b\ELMFS-40340725\bin\Debug\ELMFS-40340725.exe
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\b\ELMFS-40340725\bin\Debug\ELMFS-40340725.pdb
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS-40340725.csprojAssemblyReference.cache
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\MainWindow.g.cs
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\App.g.cs
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS-40340725_MarkupCompile.cache
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS-40340725_MarkupCompile.lref
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\MainWindow.baml
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS-40340725.g.resources
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS_40340725.Properties.Resources.resources
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS-40340725.csproj.GenerateResource.cache
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS-40340725.csproj.CoreCompileInputs.cache
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS-40340725.csproj.CopyComplete
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS-40340725.exe
+E:\Napier2019-20\SoftwareEng\Code\ELMFS-40340725\.vs\ELMFS-40340725\lut\0\i\ELMFS-40340725\Debug\ELMFS-40340725.pdb

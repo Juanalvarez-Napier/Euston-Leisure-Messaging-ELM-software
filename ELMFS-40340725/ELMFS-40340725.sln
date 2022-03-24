@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELMFS-40340725", "ELMFS-40340725\ELMFS-40340725.csproj", "{7D45CF18-46B4-456A-823B-167570D6660A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELMFS.Test", "AbreviationHandling.Test\ELMFS.Test.csproj", "{53C2663A-A925-47CD-8D61-6789C0C8A5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D45CF18-46B4-456A-823B-167570D6660A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D45CF18-46B4-456A-823B-167570D6660A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D45CF18-46B4-456A-823B-167570D6660A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D45CF18-46B4-456A-823B-167570D6660A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C2663A-A925-47CD-8D61-6789C0C8A5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C2663A-A925-47CD-8D61-6789C0C8A5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C2663A-A925-47CD-8D61-6789C0C8A5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C2663A-A925-47CD-8D61-6789C0C8A5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74746742-436C-4664-B37D-936E81D6E5B5}
+	EndGlobalSection
+EndGlobal
